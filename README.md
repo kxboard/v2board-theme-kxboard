@@ -13,7 +13,7 @@
 *   更新日期 : 2024/10/06
 *   环境兼容 : [**v2board**](https://github.com/wyx2685/v2board) / [**xboard**](https://github.com/cedar2025/Xboard)
 *   主题特性 : 前后端分离、加载速度快、体积小、防墙、去特征
-*   主题价格 : **永久开源免费**
+*   主题价格 : **永久免费**
 *   预览账号 : test1@gmail.com / 12345678
 
 
