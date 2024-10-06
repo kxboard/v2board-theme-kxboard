@@ -3,6 +3,7 @@
 - **主题1预览：https://demo1.kxboard.xyz**
 - **主题2预览：https://demo2.kxboard.xyz**
 - **交流群组** : [**https://t.me/kxBoard**](https://t.me/kxBoard)
+- **主题长期维护更新，请进群下载**
 
 
 ## 主题信息
