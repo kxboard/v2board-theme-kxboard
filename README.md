@@ -20,12 +20,12 @@
 #### 1、发送注册邮件的时候，增加Cloudflare Turnstile验证
 ![kxboard](k1.png)
 #### 2、优化购买页面，并增加折扣码倒计时的显示
-![kxboard](k2.png)
+![kxboard](t2.png)
 #### 3、优化购买页面，并增加折扣码倒计时的显示
-![kxboard](k3.png)
+![kxboard](t3.png)
 #### 4、佣金提现页面增加提现金额，用户输入的提现金额直接增加到工单内容里
-![kxboard](k4.png)
+![kxboard](t4.png)
 #### 5、优化工单页面，并增加发送表情包和发送图片功能
-![kxboard](k5.png)
+![kxboard](t5.png)
 #### 6、增加crisp的开关控制图片
-![kxboard](k6.png)
+![kxboard](t6.png)
