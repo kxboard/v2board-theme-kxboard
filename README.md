@@ -1,5 +1,5 @@
 # v2board-theme-kxboard
-基于v2board面板的主题，前后端分离，防墙去特征、不怕墙、体积超小的免费主题，支持 V2B/XB，
+基于v2board面板的主题，前后端分离，防墙去特征、不怕墙、体积超小的免费主题，完美适配移动和PC，支持 V2B/XB，
 - **主题1预览：https://demo1.kxboard.xyz**
 - **主题2预览：https://demo2.kxboard.xyz**
 - **交流群组** : [**https://t.me/kxBoard**](https://t.me/kxBoard)
